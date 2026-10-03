@@ -8,7 +8,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/YOUR_USERNAME/YOUR_GITOPS_REPO.git
+    repoURL: https://github.com/snehachandra1108/gitops-3rdoct.git
     targetRevision: main
     path: app
 
